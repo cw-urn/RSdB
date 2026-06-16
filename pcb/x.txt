@@ -1,0 +1,1000 @@
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 265.4177ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 270.6746ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 276.1289ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 281.9469ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 288.2974ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 292.9723ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 299.4371ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 304.2136ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 309.5443ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 316.0367ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 320.7957ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 326.4186ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 332.2142ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 338.0685ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 343.6667ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 349.9471ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 356.417ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 362.7545ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 369.1419ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 374.1999ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 379.6359ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 385.0797ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 389.787ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 394.4818ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 399.4107ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 404.6577ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 409.8103ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 415.1787ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 420.7979ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 426.6341ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 431.8948ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 437.5684ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 443.051ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 449.4182ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 454.2448ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 460.0976ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 465.1282ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 470.7298ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 476.6183ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 482.3901ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 487.7061ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:03 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:03 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:03 [DEBUG] kicad_wakatime                  : It has been 493.0244ms since the last heartbeat 
+14:40:03 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:03 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:03 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 498.4899ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 504.1058ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 509.5848ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 515.2631ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 520.7455ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 526.2899ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 531.836ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 537.4424ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 542.9472ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 548.6501ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 554.031ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 559.6503ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 565.0314ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 571.2072ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 576.0218ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 581.8796ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 587.2219ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 592.7148ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 598.9094ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 604.2608ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 609.3318ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 615.3188ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 621.0819ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 626.1859ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 632.1561ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 637.4868ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 643.5871ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 648.7615ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 654.2148ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 659.9409ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 665.2629ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 671.1461ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 677.2718ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 681.8778ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 687.4772ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 693.1162ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 699.0314ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 704.1819ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 709.5936ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 715.1948ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 720.9844ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 726.2817ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 731.9211ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 737.7169ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 742.9461ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 748.4356ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 753.7171ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 759.306ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 764.7957ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 770.48ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 775.9311ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 781.7052ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 787.5299ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 792.7462ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 798.4303ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 803.7274ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 809.2432ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 815.0476ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 820.3474ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 825.9061ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 831.3595ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 837.1253ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 843.0875ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 848.4141ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 853.6964ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 859.227ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 865.1849ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 870.4091ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 876.0605ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 881.4435ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 887.019ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 892.7175ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 898.1727ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 903.8408ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 909.4255ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 914.9734ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 920.4469ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 926.1317ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 931.7294ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 937.2827ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 942.6927ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 948.258ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 953.996ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 959.4398ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 964.9535ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 970.6258ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 976.2014ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 981.6399ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 987.7182ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 992.7796ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 998.3954ms since the last heartbeat 
+14:40:04 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:40:04 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:40:04 [INFO ] kicad_wakatime                  : Filename: rsdb_rev1.kicad_sch 
+14:40:04 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:40:04 [DEBUG] kicad_wakatime                  : It has been 1.0037973s since the last heartbeat 
+14:40:04 [INFO ] kicad_wakatime                  : Sending heartbeat... 
+14:40:04 [INFO ] kicad_wakatime                  : Executing WakaTime CLI... 
+14:40:04 [DEBUG] kicad_wakatime                  : cli_status = exit code: 0 
+14:40:04 [DEBUG] kicad_wakatime                  : cli_stdout = "" 
+14:40:04 [DEBUG] kicad_wakatime                  : cli_stderr = "" 
+14:40:04 [INFO ] kicad_wakatime                  : Finished! 
+14:40:04 [DEBUG] kicad_wakatime                  : last_sent_time = 1781610004.8606493s 
+14:40:04 [DEBUG] kicad_wakatime                  : last_sent_file = "Q:\\Works\\RSdB\\pcb\\rsdb_rev1.kicad_sch" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.filename = "rsdb_rev1.kicad_sch" 
+14:40:04 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\rsdb_rev1.kicad_sch" 
+14:40:12 [DEBUG] kicad_wakatime                  : Couldn't split the window title Page Settings at - 
+14:40:33 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol at - 
+14:40:33 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol (22760 items loaded) at - 
+14:40:55 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol at - 
+14:40:55 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol (22762 items loaded) at - 
+14:40:58 [DEBUG] kicad_wakatime                  : Couldn't split the window title Mozilla Firefox at - 
+14:42:33 [DEBUG] kicad_wakatime                  : Couldn't split the window title Stasis (DM) - Hack Club - Slack at - 
+14:43:05 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol (22762 items loaded) at - 
+14:44:15 [DEBUG] kicad_wakatime                  : Couldn't split the window title  at - 
+14:44:15 [DEBUG] kicad_wakatime                  : Couldn't split the window title pathfinder (Channel) - Hack Club - Slack at - 
+14:44:34 [DEBUG] kicad_wakatime                  : Couldn't split the window title Mozilla Firefox at - 
+14:44:35 [DEBUG] kicad_wakatime                  : Couldn't split the window title pathfinder (Channel) - Hack Club - Slack at - 
+14:47:46 [DEBUG] kicad_wakatime                  : Couldn't split the window title Mozilla Firefox at - 
+14:48:01 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol at - 
+14:48:01 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol (22762 items loaded) at - 
+14:48:31 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol at - 
+14:48:31 [DEBUG] kicad_wakatime                  : Couldn't split the window title Choose Symbol (22764 items loaded) at - 
+14:50:44 [INFO ] kicad_wakatime                  : File saved! 
+14:50:44 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:50:44 [DEBUG] kicad_wakatime                  : It has been 640.0607843s since the last heartbeat 
+14:50:44 [INFO ] kicad_wakatime                  : Sending heartbeat... 
+14:50:44 [INFO ] kicad_wakatime                  : Executing WakaTime CLI... 
+14:50:45 [DEBUG] kicad_wakatime                  : cli_status = exit code: 0 
+14:50:45 [DEBUG] kicad_wakatime                  : cli_stdout = "" 
+14:50:45 [DEBUG] kicad_wakatime                  : cli_stderr = "" 
+14:50:45 [INFO ] kicad_wakatime                  : Finished! 
+14:50:45 [DEBUG] kicad_wakatime                  : last_sent_time = 1781610645.7986447s 
+14:50:45 [DEBUG] kicad_wakatime                  : last_sent_file = "Q:\\Works\\RSdB\\pcb\\rsdb_rev1.kicad_sch" 
+14:50:45 [INFO ] kicad_wakatime                  : File saved! 
+14:50:45 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:50:45 [DEBUG] kicad_wakatime                  : It has been 5.0947ms since the last heartbeat 
+14:50:45 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:50:45 [INFO ] kicad_wakatime                  : New backup created! 
+14:50:45 [INFO ] kicad_wakatime                  : Looking at backups of rsdb_rev1.kicad_sch... 
+14:50:46 [INFO ] kicad_wakatime                  : Change detected! 
+14:50:46 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:50:46 [DEBUG] kicad_wakatime                  : It has been 530.5341ms since the last heartbeat 
+14:50:46 [DEBUG] kicad_wakatime                  : Not sending heartbeat (too fast!) 
+14:50:50 [DEBUG] kicad_wakatime                  : Couldn't split the window title pathfinder (Channel) - Hack Club - Slack at - 
+14:50:51 [INFO ] kicad_wakatime                  : Focused file changed! 
+14:50:51 [INFO ] kicad_wakatime                  : Filename: Q:\Works\RSdB\pcb\libraries\rsdb.kicad_sym 
+14:50:51 [DEBUG] kicad_wakatime                  : Determining whether to send heartbeat... 
+14:50:51 [DEBUG] kicad_wakatime                  : It has been 5.9037538s since the last heartbeat 
+14:50:51 [INFO ] kicad_wakatime                  : Sending heartbeat... 
+14:50:51 [INFO ] kicad_wakatime                  : Executing WakaTime CLI... 
+14:50:52 [DEBUG] kicad_wakatime                  : cli_status = exit code: 0 
+14:50:52 [DEBUG] kicad_wakatime                  : cli_stdout = "" 
+14:50:52 [DEBUG] kicad_wakatime                  : cli_stderr = "" 
+14:50:52 [INFO ] kicad_wakatime                  : Finished! 
+14:50:52 [DEBUG] kicad_wakatime                  : last_sent_time = 1781610652.0739711s 
+14:50:52 [DEBUG] kicad_wakatime                  : last_sent_file = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:50:52 [DEBUG] kicad_wakatime                  : self.filename = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:50:52 [DEBUG] kicad_wakatime                  : self.full_path = "Q:\\Works\\RSdB\\pcb\\libraries\\rsdb.kicad_sym" 
+14:51:03 [DEBUG] kicad_wakatime                  : Couldn't split the window title kicad-wakatime ^_^ at - 
